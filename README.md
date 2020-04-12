@@ -6,4 +6,4 @@ UseFul links
 - https://jenkins.io/blog/2017/06/27/speaker-blog-SAS-jenkins-world/
 - https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/
 - https://opensource.triology.de/jenkins/pipeline-syntax/globals
-- 
+- https://jenkins.io/doc/pipeline/steps/ws-cleanup/#workspace-cleanup-plugin
